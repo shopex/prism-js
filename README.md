@@ -7,7 +7,7 @@ Usage
 In the shell:
 
 ```
-npm install prism
+npm install prism-js
 ```
 
 In your app:
