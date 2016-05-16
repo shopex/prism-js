@@ -1,7 +1,7 @@
 {
     "name": "prism-js",
     "description": "Prism NodeJS SDK",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "maintainers": [
         {
             "name": "wanglei",
