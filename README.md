@@ -13,7 +13,7 @@ npm install prism-js
 In your app:
 
 ```
-require('prism-js');
+var prism = require('prism-js');
 
 client = prism("http://127.0.0.1:8080/api", "umjj5xj6", "xa4k7gzyemzjkscapdjb");
 
